@@ -1,1 +1,0 @@
-data = pd.DataFrame.from_dict(nilai_siswa)
